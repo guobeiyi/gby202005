@@ -1,0 +1,19 @@
+body{
+	font-size:20px;
+}
+
+button{
+	margin-bottom:5px;
+	font-size:20px;
+}
+
+.track-step{
+	width:20px;
+	height:20px;
+	display:inline-block;
+	background-color:orange;
+	outline-style:solid;
+	outline-width:1px;
+	margin-left:5px;
+}
+
